@@ -59,13 +59,21 @@ html, body {
 }
 
 .peu {
-  margin-top: -15px;
+  margin-top: -28px;
 }
 .peu a {
-  vertical-align: text-bottom;
   padding-right: 10px;
 }
 
 .video {
   border: 3px solid white;
+}
+.link-light {
+  height: 20px;
+  text-align: top;
+  margin: 0px;
+  padding: 0px;
+}
+.esquerra {
+  text-align: right;
 }
